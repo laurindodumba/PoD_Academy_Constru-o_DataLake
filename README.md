@@ -47,9 +47,14 @@
 * Linguagem: Python e PySpark
 * Cloud AWS (S3, ec2, EMR)
 
-* [Leitura do projeto no projeto](#pessoas-desenvolvedoras)
-* https://medium.com/@dumbalvd/construindo-um-datalake-na-aws-parte-01-4d4bd989b08d
-* https://medium.com/@dumbalvd/construindo-um-datalake-na-aws-parte-2-6f028dc06a41
+* [Leitura do projeto MEDIUM ](#pessoas-desenvolvedoras)
+  
+🏷 https://medium.com/@dumbalvd/construindo-um-datalake-na-aws-parte-01-4d4bd989b08d
+
+🏷 https://medium.com/@dumbalvd/construindo-um-datalake-na-aws-parte-2-6f028dc06a41
+
+
+
 * [ANÁLISE VISUAL](#conclusão)
 
 ![image](https://github.com/user-attachments/assets/98177371-30ca-4f28-99cd-1ba600c3581c)
